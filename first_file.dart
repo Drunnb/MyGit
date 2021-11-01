@@ -1,6 +1,6 @@
 import 'second_file.dart';
 
 void main() {
-  print('its first app in hub');
+  print('Hello user! Nice day or night !');
   FromSecondFile().PrinterText('its part from first file');
 }
